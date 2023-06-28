@@ -1,3 +1,3 @@
 Live Demo:
-https://netflix-clone-e23d2.web.app/
+https://netflix-clone-86484.web.app/
 
